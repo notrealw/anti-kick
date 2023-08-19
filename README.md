@@ -3,12 +3,12 @@
 A script that prevents all kick attempts.
 
 
-## Parâmetros
+## Parameters
 
-| Parâmetro   | Tipo       | Descrição                           |
+| Parameter   | Type       | Description                          |
 | :---------- | :--------- | :---------------------------------- |
-| `AntiKick` | `boolean` | Opcional. Define se o script está ativado ou desativado. |
-| `Notifications` | `boolean` | Opcional. Define se as notificações do script estão ativadas ou desativadas. |
+| `AntiKick` | `boolean` | Optional. Defines whether scripting is enabled or disabled. |
+| `Notifications` | `boolean` | Optional. Sets whether script notifications are enabled or disabled. |
 
 ## Script
 ```lua
