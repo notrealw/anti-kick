@@ -13,7 +13,6 @@ A script that prevents all kick attempts.
 ## Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/raavenkkj/anti-kick/main/anti-kick.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/raavenkkj/anti-kick/main/anti-kick.lua"))()
 getgenv().AntiKick = true -- Optional
 getgenv().Notifications = true -- Optional
 ```
